@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/data_files/895148322842980354_data/desktop.ini
+data/data_files/desktop.ini
